@@ -6,7 +6,7 @@
 *.tar
 
 ### Maven ###
-demo-app/target/
+microservice-kafka-demo-app/target/
 
 ### IntelliJ ###
 *.iml
