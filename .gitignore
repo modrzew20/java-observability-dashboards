@@ -1,2 +1,14 @@
 .idea
 .DS_Store
+
+### Docker ###
+*.tar.gz
+*.tar
+
+### Maven ###
+demo-app/target/
+
+### IntelliJ ###
+*.iml
+*.iws
+*.ipr
